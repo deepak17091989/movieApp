@@ -7,12 +7,12 @@
   </component>
   <component name="AndroidLogFilters">
     <option name="TOOL_WINDOW_LOG_LEVEL" value="ERROR" />
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de9229d8-2eeb-48f1-9306-00323c099168" name="Default" comment="" />
+    <list default="true" id="2beb81a8-c4f1-403a-aadf-3c63a5d3a8e2" name="Default" comment="" />
     <ignored path="MovieApp.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,16 +37,74 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="MovieInfo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/MovieInfo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5939177">
+              <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Tab1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Tab1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
+              <caret line="136" column="24" selection-start-line="136" selection-start-column="24" selection-end-line="136" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout_cell.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_cell.xml">
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdapterMovieSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/AdapterMovieSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="92" column="8" selection-start-line="92" selection-start-column="8" selection-end-line="94" selection-end-column="45" />
               <folding>
-                <element signature="e#4103#4476#0" expanded="true" />
-                <element signature="e#4475#4476#0" expanded="true" />
-                <element signature="e#4478#4725#0" expanded="true" />
-                <element signature="e#4724#4725#0" expanded="true" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1579#1580#0" expanded="false" />
+                <element signature="e#1633#1634#0" expanded="false" />
+                <element signature="e#2801#2983#0" expanded="false" />
+                <element signature="e#2982#2983#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Upcoming.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/Upcoming.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="127" column="71" selection-start-line="127" selection-start-column="71" selection-end-line="127" selection-end-column="71" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#3281#3463#0" expanded="false" />
+                <element signature="e#3462#3463#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -56,33 +114,56 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/data/Movie.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AdapterMovieSearch.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/AdapterMovieSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.63496935">
-              <caret line="54" column="58" selection-start-line="54" selection-start-column="58" selection-end-line="54" selection-end-column="58" />
-              <folding />
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding>
+                <element signature="e#486#487#0" expanded="false" />
+                <element signature="e#516#517#0" expanded="false" />
+                <element signature="e#562#563#0" expanded="false" />
+                <element signature="e#600#601#0" expanded="false" />
+                <element signature="e#637#638#0" expanded="false" />
+                <element signature="e#673#674#0" expanded="false" />
+                <element signature="e#728#729#0" expanded="false" />
+                <element signature="e#778#779#0" expanded="false" />
+                <element signature="e#807#808#0" expanded="false" />
+                <element signature="e#832#833#0" expanded="false" />
+                <element signature="e#868#869#0" expanded="false" />
+                <element signature="e#896#897#0" expanded="false" />
+                <element signature="e#939#940#0" expanded="false" />
+                <element signature="e#980#981#0" expanded="false" />
+                <element signature="e#1141#1142#0" expanded="false" />
+                <element signature="e#1172#1173#0" expanded="false" />
+                <element signature="e#1220#1221#0" expanded="false" />
+                <element signature="e#1260#1261#0" expanded="false" />
+                <element signature="e#1292#1293#0" expanded="false" />
+                <element signature="e#1320#1321#0" expanded="false" />
+                <element signature="e#1362#1363#0" expanded="false" />
+                <element signature="e#1396#1397#0" expanded="false" />
+                <element signature="e#1430#1431#0" expanded="false" />
+                <element signature="e#1460#1461#0" expanded="false" />
+                <element signature="e#1506#1507#0" expanded="false" />
+                <element signature="e#1544#1545#0" expanded="false" />
+                <element signature="e#1581#1582#0" expanded="false" />
+                <element signature="e#1614#1615#0" expanded="false" />
+                <element signature="e#1666#1667#0" expanded="false" />
+                <element signature="e#1710#1711#0" expanded="false" />
+                <element signature="e#1744#1745#0" expanded="false" />
+                <element signature="e#1774#1775#0" expanded="false" />
+                <element signature="e#1820#1821#0" expanded="false" />
+                <element signature="e#1858#1859#0" expanded="false" />
+                <element signature="e#1895#1896#0" expanded="false" />
+                <element signature="e#1928#1929#0" expanded="false" />
+                <element signature="e#1980#1981#0" expanded="false" />
+                <element signature="e#2024#2025#0" expanded="false" />
+                <element signature="e#2063#2064#0" expanded="false" />
+                <element signature="e#2098#2099#0" expanded="false" />
+                <element signature="e#2154#2155#0" expanded="false" />
+                <element signature="e#2202#2203#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="valueResourceFile" />
-        <option value="layoutResourceFile_vertical" />
-        <option value="Class" />
-        <option value="AnnotationType" />
-      </list>
-    </option>
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -111,6 +192,57 @@
     </option>
     <option name="availableTasks">
       <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'MovieApp'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'MovieApp'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'MovieApp'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'MovieApp'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'MovieApp'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'MovieApp' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app">
           <value>
             <list>
@@ -268,6 +400,11 @@
                 <option name="name" value="compileReleaseUnitTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':app'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Installs and runs instrumentation tests for all flavors on connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="connectedAndroidTest" />
@@ -281,6 +418,16 @@
                 <option name="description" value="Runs all device checks on currently connected devices." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="connectedCheck" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':app'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':app'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Installs and runs instrumentation tests using all Device Providers." />
@@ -363,6 +510,11 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="generateReleaseSources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Installs the Debug build." />
@@ -493,6 +645,11 @@
                 <option name="name" value="prepareComAndroidSupportAppcompatV72220Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:design:22.2.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportDesign2220Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:recyclerview-v7:21.0.3" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareComAndroidSupportRecyclerviewV72103Library" />
@@ -501,6 +658,16 @@
                 <option name="description" value="Prepare com.android.support:support-v4:22.2.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareComAndroidSupportSupportV42220Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.daimajia.androidanimations:library:1.1.3" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComDaimajiaAndroidanimationsLibrary113Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.daimajia.easing:library:1.0.1" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComDaimajiaEasingLibrary101Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
@@ -567,9 +734,24 @@
                 <option name="name" value="processReleaseUnitTestJavaRes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':app'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':app'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the signing info for each variant." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="signingReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':app'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="tasks" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Run unit tests for all variants." />
@@ -621,7 +803,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4308584921561" />
+        <entry key="$PROJECT_DIR$" value="4316191327382" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -788,8 +970,12 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/appcompat-v7/22.2.0/appcompat-v7-22.2.0.aar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.16/d8f5b9114ebe0f76de7fbf55e950540959ce4ff8/library-1.0.16.jar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/recyclerview-v7/21.0.3/recyclerview-v7-21.0.3.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.18/38da306aafee11459cd935a01d2c92a98dc670a4/library-1.0.18.jar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/design/22.2.0/design-22.2.0.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daimajia.easing/library/1.0.1/8a138655d16289aeaebe6b451ebe1ef792df155c/library-1.0.1.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daimajia.androidanimations/library/1.1.3/48cf6a0ed2ed372e49de2cea3326172fb463c5fd/library-1.1.3.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/support-v4/22.2.0/support-v4-22.2.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar" />
                           </list>
@@ -803,59 +989,60 @@
               <option name="name" value="app" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/ant-1.9.3.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/ant-launcher-1.9.3.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-base-services-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-base-services-groovy-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-cli-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-core-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-docs-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-launcher-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-messaging-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-model-core-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-model-groovy-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-native-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-open-api-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-resources-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-tooling-api-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-ui-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/gradle-wrapper-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/groovy-all-2.3.6.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/ant-antlr-1.9.3.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-announce-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-antlr-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-build-comparison-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-build-init-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-code-quality-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-cunit-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-dependency-management-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-diagnostics-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-ear-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-ide-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-ide-native-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-ivy-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-jacoco-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-javascript-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-jetty-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-language-groovy-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-language-java-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-language-jvm-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-language-native-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-maven-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-osgi-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-platform-base-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-platform-jvm-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-platform-native-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-plugin-development-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-plugin-use-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-plugins-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-publish-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-reporting-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-resources-http-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-scala-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-signing-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/gradle-sonar-2.2.1.jar" />
-                  <option value="$APPLICATION_HOME_DIR$/gradle/gradle-2.2.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/ant-1.9.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/ant-launcher-1.9.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-base-services-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-base-services-groovy-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-cli-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-core-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-docs-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-launcher-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-messaging-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-model-core-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-model-groovy-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-native-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-open-api-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-resources-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-tooling-api-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-ui-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/gradle-wrapper-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/groovy-all-2.3.9.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-announce-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-antlr-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-build-comparison-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-build-init-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-code-quality-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-cunit-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-dependency-management-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-diagnostics-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-ear-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-ide-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-ide-native-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-ivy-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-jacoco-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-javascript-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-jetty-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-language-groovy-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-language-java-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-language-jvm-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-language-native-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-language-scala-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-maven-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-osgi-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-platform-base-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-platform-jvm-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-platform-native-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-platform-play-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-plugin-development-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-plugin-use-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-plugins-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-publish-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-reporting-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-resources-http-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-scala-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-signing-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/gradle-sonar-2.3.jar" />
+                  <option value="F:/Android/gradle-2.3/lib/plugins/ivy-2.2.0.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -872,32 +1059,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/color.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/selector.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/SlidingTabLayout.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/VolleySingleton/VolleySingleton.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/JSONdata/UrlCreator.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/Tab1.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Fragment_search.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Fragment_top_selections.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/NewRelease.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/ViewPagerAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/libs/SlidingTabLayout.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/utilities/getRequestURL.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/utilities/URLutils.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/utilities/GetRequestURL.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/data/Movie.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_cell.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/adapterMovieSearch.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/tab_1.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/interfaces/AsyncResponse.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Tab2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/data/Movie.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/movie_layout.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/drawable/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/shape.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/Upcoming.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_cell.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Tab1.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/AdapterMovieSearch.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/movieapp/MovieInfo.java" />
       </list>
     </option>
   </component>
@@ -907,7 +1082,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1370" />
+    <option name="width" value="1378" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -933,8 +1108,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
@@ -990,6 +1165,24 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="drawable" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MovieApp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
             </PATH_ELEMENT>
@@ -1010,28 +1203,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="movieapp" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MovieApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="movieapp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="interfaces" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1117,29 +1288,21 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/sdk1" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="41002a06fbed3100" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Nexus_5_API_22_x86" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/values-w820dp" />
-    <property name="FullScreen" value="false" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Deepak Kumar\AndroidStudioProjects\MovieApp\app\src\main\res\layout" />
-      <recent name="C:\Users\Deepak Kumar\AndroidStudioProjects\MovieApp\app\src\main\java\com\example\movieapp\fragments" />
-      <recent name="C:\Users\Deepak Kumar\AndroidStudioProjects\MovieApp\app\src\main\java\com\example\movieapp\VolleySingleton" />
-      <recent name="C:\Users\Deepak Kumar\AndroidStudioProjects\MovieApp\app\src\main\res\values-w820dp" />
-      <recent name="C:\Users\Deepak Kumar\AndroidStudioProjects\MovieApp\app\src\main\res\values" />
+      <recent name="C:\Users\Deepak Kumar\AndroidStudioProjects\MovieApp\app\src\main\res\drawable" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Deepak Kumar\AndroidStudioProjects\MovieApp\app\src\main\java\com\example\movieapp\adapters" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.example.movieapp" />
+      <recent name="C:\Users\Deepak Kumar\AndroidStudioProjects\MovieApp\app\src\main\res\layout" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
@@ -1331,54 +1494,45 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="de9229d8-2eeb-48f1-9306-00323c099168" name="Default" comment="" />
-      <created>1436064429169</created>
+      <changelist id="2beb81a8-c4f1-403a-aadf-3c63a5d3a8e2" name="Default" comment="" />
+      <created>1438727847690</created>
       <option name="number" value="Default" />
-      <updated>1436064429169</updated>
+      <updated>1438727847690</updated>
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1370" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" x="92" y="92" width="1170" height="544" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35434413" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.42759797" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39693356" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24809161" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.245827" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Documentation" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" x="92" y="92" width="1170" height="544" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -1397,89 +1551,433 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Tab1.java</url>
-          <line>53</line>
+          <line>137</line>
           <properties />
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Tab1.java</url>
-          <line>54</line>
-          <properties />
-          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="17" />
+      <option name="time" value="1" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tool_bar.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/BoxOfficAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/data/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="104" column="28" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
+          <folding>
+            <element signature="e#486#487#0" expanded="false" />
+            <element signature="e#516#517#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="false" />
+            <element signature="e#600#601#0" expanded="false" />
+            <element signature="e#637#638#0" expanded="false" />
+            <element signature="e#673#674#0" expanded="false" />
+            <element signature="e#728#729#0" expanded="false" />
+            <element signature="e#778#779#0" expanded="false" />
+            <element signature="e#807#808#0" expanded="false" />
+            <element signature="e#832#833#0" expanded="false" />
+            <element signature="e#868#869#0" expanded="false" />
+            <element signature="e#896#897#0" expanded="false" />
+            <element signature="e#939#940#0" expanded="false" />
+            <element signature="e#980#981#0" expanded="false" />
+            <element signature="e#1141#1142#0" expanded="false" />
+            <element signature="e#1172#1173#0" expanded="false" />
+            <element signature="e#1220#1221#0" expanded="false" />
+            <element signature="e#1260#1261#0" expanded="false" />
+            <element signature="e#1292#1293#0" expanded="false" />
+            <element signature="e#1320#1321#0" expanded="false" />
+            <element signature="e#1362#1363#0" expanded="false" />
+            <element signature="e#1396#1397#0" expanded="false" />
+            <element signature="e#1430#1431#0" expanded="false" />
+            <element signature="e#1460#1461#0" expanded="false" />
+            <element signature="e#1506#1507#0" expanded="false" />
+            <element signature="e#1544#1545#0" expanded="false" />
+            <element signature="e#1581#1582#0" expanded="false" />
+            <element signature="e#1614#1615#0" expanded="false" />
+            <element signature="e#1666#1667#0" expanded="false" />
+            <element signature="e#1710#1711#0" expanded="false" />
+            <element signature="e#1744#1745#0" expanded="false" />
+            <element signature="e#1774#1775#0" expanded="false" />
+            <element signature="e#1820#1821#0" expanded="false" />
+            <element signature="e#1858#1859#0" expanded="false" />
+            <element signature="e#1895#1896#0" expanded="false" />
+            <element signature="e#1928#1929#0" expanded="false" />
+            <element signature="e#1980#1981#0" expanded="false" />
+            <element signature="e#2024#2025#0" expanded="false" />
+            <element signature="e#2063#2064#0" expanded="false" />
+            <element signature="e#2098#2099#0" expanded="false" />
+            <element signature="e#2154#2155#0" expanded="false" />
+            <element signature="e#2202#2203#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Tab1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="8" selection-start-line="55" selection-start-column="8" selection-end-line="55" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Tab2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/NewRelease.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tab_1.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.04644809">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13934426">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gradle.properties">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/MovieInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="52" column="52" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Fragment_top_selections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13934426">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/JSONdata/UrlCreator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27868852">
-          <caret line="6" column="83" selection-start-line="6" selection-start-column="83" selection-end-line="6" selection-end-column="83" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/Upcoming.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="38" selection-start-line="0" selection-start-column="38" selection-end-line="0" selection-end-column="38" />
+          <caret line="54" column="56" selection-start-line="54" selection-start-column="56" selection-end-line="54" selection-end-column="56" />
           <folding>
-            <element signature="e#328#346#0" expanded="false" />
-            <element signature="e#474#492#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#3281#3463#0" expanded="false" />
+            <element signature="e#3462#3463#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/AdapterMovieSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1579#1580#0" expanded="false" />
+            <element signature="e#1633#1634#0" expanded="false" />
+            <element signature="e#2801#2983#0" expanded="false" />
+            <element signature="e#2982#2983#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/BoxOfficAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/data/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="104" column="28" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
+          <folding>
+            <element signature="e#486#487#0" expanded="false" />
+            <element signature="e#516#517#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="false" />
+            <element signature="e#600#601#0" expanded="false" />
+            <element signature="e#637#638#0" expanded="false" />
+            <element signature="e#673#674#0" expanded="false" />
+            <element signature="e#728#729#0" expanded="false" />
+            <element signature="e#778#779#0" expanded="false" />
+            <element signature="e#807#808#0" expanded="false" />
+            <element signature="e#832#833#0" expanded="false" />
+            <element signature="e#868#869#0" expanded="false" />
+            <element signature="e#896#897#0" expanded="false" />
+            <element signature="e#939#940#0" expanded="false" />
+            <element signature="e#980#981#0" expanded="false" />
+            <element signature="e#1141#1142#0" expanded="false" />
+            <element signature="e#1172#1173#0" expanded="false" />
+            <element signature="e#1220#1221#0" expanded="false" />
+            <element signature="e#1260#1261#0" expanded="false" />
+            <element signature="e#1292#1293#0" expanded="false" />
+            <element signature="e#1320#1321#0" expanded="false" />
+            <element signature="e#1362#1363#0" expanded="false" />
+            <element signature="e#1396#1397#0" expanded="false" />
+            <element signature="e#1430#1431#0" expanded="false" />
+            <element signature="e#1460#1461#0" expanded="false" />
+            <element signature="e#1506#1507#0" expanded="false" />
+            <element signature="e#1544#1545#0" expanded="false" />
+            <element signature="e#1581#1582#0" expanded="false" />
+            <element signature="e#1614#1615#0" expanded="false" />
+            <element signature="e#1666#1667#0" expanded="false" />
+            <element signature="e#1710#1711#0" expanded="false" />
+            <element signature="e#1744#1745#0" expanded="false" />
+            <element signature="e#1774#1775#0" expanded="false" />
+            <element signature="e#1820#1821#0" expanded="false" />
+            <element signature="e#1858#1859#0" expanded="false" />
+            <element signature="e#1895#1896#0" expanded="false" />
+            <element signature="e#1928#1929#0" expanded="false" />
+            <element signature="e#1980#1981#0" expanded="false" />
+            <element signature="e#2024#2025#0" expanded="false" />
+            <element signature="e#2063#2064#0" expanded="false" />
+            <element signature="e#2098#2099#0" expanded="false" />
+            <element signature="e#2154#2155#0" expanded="false" />
+            <element signature="e#2202#2203#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Tab1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tab_1.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/MovieInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="52" column="52" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/Upcoming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="56" selection-start-line="54" selection-start-column="56" selection-end-line="54" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3281#3463#0" expanded="false" />
+            <element signature="e#3462#3463#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/AdapterMovieSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="54" column="25" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1579#1580#0" expanded="false" />
+            <element signature="e#1633#1634#0" expanded="false" />
+            <element signature="e#2801#2983#0" expanded="false" />
+            <element signature="e#2982#2983#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/BoxOfficAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/data/Movie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="104" column="28" selection-start-line="104" selection-start-column="28" selection-end-line="104" selection-end-column="28" />
+          <folding>
+            <element signature="e#486#487#0" expanded="false" />
+            <element signature="e#516#517#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="false" />
+            <element signature="e#600#601#0" expanded="false" />
+            <element signature="e#637#638#0" expanded="false" />
+            <element signature="e#673#674#0" expanded="false" />
+            <element signature="e#728#729#0" expanded="false" />
+            <element signature="e#778#779#0" expanded="false" />
+            <element signature="e#807#808#0" expanded="false" />
+            <element signature="e#832#833#0" expanded="false" />
+            <element signature="e#868#869#0" expanded="false" />
+            <element signature="e#896#897#0" expanded="false" />
+            <element signature="e#939#940#0" expanded="false" />
+            <element signature="e#980#981#0" expanded="false" />
+            <element signature="e#1141#1142#0" expanded="false" />
+            <element signature="e#1172#1173#0" expanded="false" />
+            <element signature="e#1220#1221#0" expanded="false" />
+            <element signature="e#1260#1261#0" expanded="false" />
+            <element signature="e#1292#1293#0" expanded="false" />
+            <element signature="e#1320#1321#0" expanded="false" />
+            <element signature="e#1362#1363#0" expanded="false" />
+            <element signature="e#1396#1397#0" expanded="false" />
+            <element signature="e#1430#1431#0" expanded="false" />
+            <element signature="e#1460#1461#0" expanded="false" />
+            <element signature="e#1506#1507#0" expanded="false" />
+            <element signature="e#1544#1545#0" expanded="false" />
+            <element signature="e#1581#1582#0" expanded="false" />
+            <element signature="e#1614#1615#0" expanded="false" />
+            <element signature="e#1666#1667#0" expanded="false" />
+            <element signature="e#1710#1711#0" expanded="false" />
+            <element signature="e#1744#1745#0" expanded="false" />
+            <element signature="e#1774#1775#0" expanded="false" />
+            <element signature="e#1820#1821#0" expanded="false" />
+            <element signature="e#1858#1859#0" expanded="false" />
+            <element signature="e#1895#1896#0" expanded="false" />
+            <element signature="e#1928#1929#0" expanded="false" />
+            <element signature="e#1980#1981#0" expanded="false" />
+            <element signature="e#2024#2025#0" expanded="false" />
+            <element signature="e#2063#2064#0" expanded="false" />
+            <element signature="e#2098#2099#0" expanded="false" />
+            <element signature="e#2154#2155#0" expanded="false" />
+            <element signature="e#2202#2203#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Tab1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="21" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tab_1.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/MovieInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Tab1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="87" selection-start-line="70" selection-start-column="87" selection-end-line="70" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/AdapterMovieSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1579#1580#0" expanded="false" />
+            <element signature="e#1633#1634#0" expanded="false" />
+            <element signature="e#2801#2983#0" expanded="false" />
+            <element signature="e#2982#2983#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tab_1.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tab_1.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="60" column="25" selection-start-line="60" selection-start-column="25" selection-end-line="60" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/BoxOfficAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="90" column="5" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/NewRelease.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/libs/SlidingTabLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="292" column="1" selection-start-line="292" selection-start-column="1" selection-end-line="292" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1490,630 +1988,191 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/NewRelease.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="40" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Fragment_search.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.20788531">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/utilities/URLutils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/utilities/GetRequestURL.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/ViewPagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.16/295d116bf1a6eba266000265be76b2ac27d228c0/library-1.0.16-sources.jar!/com/android/volley/toolbox/JsonRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.16/295d116bf1a6eba266000265be76b2ac27d228c0/library-1.0.16-sources.jar!/com/android/volley/RequestQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="263" column="0" selection-start-line="263" selection-start-column="0" selection-end-line="263" selection-end-column="0" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/VolleySingleton/VolleySingleton.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3251366">
+        <state vertical-scroll-proportion="0.0">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="47" selection-start-line="24" selection-start-column="47" selection-end-line="24" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_cell.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/recyclerview-v7/21.0.3/recyclerview-v7-21.0.3-sources.jar!/android/support/v7/widget/RecyclerView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4363" column="26" selection-start-line="4363" selection-start-column="26" selection-end-line="4363" selection-end-column="26" />
           <folding>
-            <element signature="e#0#358371#0" expanded="false" />
             <element signature="imports" expanded="false" />
-            <element signature="e#5632#5638#0" expanded="false" />
-            <element signature="e#6060#6869#0" expanded="false" />
-            <element signature="e#6868#6869#0" expanded="false" />
-            <element signature="e#7108#7124#0" expanded="false" />
-            <element signature="e#7226#7247#0" expanded="false" />
-            <element signature="e#10028#10258#0" expanded="false" />
-            <element signature="e#10257#10258#0" expanded="false" />
-            <element signature="e#10322#10475#0" expanded="false" />
-            <element signature="e#10474#10475#0" expanded="false" />
-            <element signature="e#10519#10520#0" expanded="false" />
-            <element signature="e#10554#10555#0" expanded="false" />
-            <element signature="e#10618#10619#0" expanded="false" />
-            <element signature="e#10657#10658#0" expanded="false" />
-            <element signature="e#12839#12840#0" expanded="false" />
-            <element signature="e#12911#12912#0" expanded="false" />
-            <element signature="e#13180#13181#0" expanded="false" />
-            <element signature="e#13255#13256#0" expanded="false" />
-            <element signature="e#13646#13647#0" expanded="false" />
-            <element signature="e#13721#13722#0" expanded="false" />
-            <element signature="e#14116#14117#0" expanded="false" />
-            <element signature="e#14182#14183#0" expanded="false" />
-            <element signature="e#16940#16941#0" expanded="false" />
-            <element signature="e#16990#16991#0" expanded="false" />
-            <element signature="e#17869#17870#0" expanded="false" />
-            <element signature="e#17919#17920#0" expanded="false" />
-            <element signature="e#18854#18855#0" expanded="false" />
-            <element signature="e#18898#18899#0" expanded="false" />
-            <element signature="e#19086#19087#0" expanded="false" />
-            <element signature="e#19122#19123#0" expanded="false" />
-            <element signature="e#24288#24289#0" expanded="false" />
-            <element signature="e#24319#24320#0" expanded="false" />
-            <element signature="e#24850#24851#0" expanded="false" />
-            <element signature="e#24894#24895#0" expanded="false" />
-            <element signature="e#29295#29296#0" expanded="false" />
-            <element signature="e#29325#29326#0" expanded="false" />
-            <element signature="e#29785#29786#0" expanded="false" />
-            <element signature="e#29839#29840#0" expanded="false" />
-            <element signature="e#30377#30378#0" expanded="false" />
-            <element signature="e#30428#30429#0" expanded="false" />
-            <element signature="e#31424#31425#0" expanded="false" />
-            <element signature="e#31472#31473#0" expanded="false" />
-            <element signature="e#31708#31709#0" expanded="false" />
-            <element signature="e#31743#31744#0" expanded="false" />
-            <element signature="e#34222#34223#0" expanded="false" />
-            <element signature="e#34266#34267#0" expanded="false" />
-            <element signature="e#35278#35279#0" expanded="false" />
-            <element signature="e#35320#35321#0" expanded="false" />
-            <element signature="e#37773#37774#0" expanded="false" />
-            <element signature="e#37820#37821#0" expanded="false" />
-            <element signature="e#53140#53141#0" expanded="false" />
-            <element signature="e#53210#53211#0" expanded="false" />
-            <element signature="e#71177#71178#0" expanded="false" />
-            <element signature="e#71213#71214#0" expanded="false" />
-            <element signature="e#120195#120196#0" expanded="false" />
-            <element signature="e#120247#120248#0" expanded="false" />
-            <element signature="e#125280#125303#0" expanded="false" />
-            <element signature="e#125496#125497#0" expanded="false" />
-            <element signature="e#125534#125535#0" expanded="false" />
-            <element signature="e#127078#127079#0" expanded="false" />
-            <element signature="e#127116#127117#0" expanded="false" />
-            <element signature="e#127141#127142#0" expanded="false" />
-            <element signature="e#127179#127180#0" expanded="false" />
-            <element signature="e#129535#129547#0" expanded="false" />
-            <element signature="e#129676#129688#0" expanded="false" />
-            <element signature="e#131285#131286#0" expanded="false" />
-            <element signature="e#131342#131343#0" expanded="false" />
-            <element signature="e#137776#137777#0" expanded="false" />
-            <element signature="e#137842#137843#0" expanded="false" />
-            <element signature="e#153795#153796#0" expanded="false" />
-            <element signature="e#153847#153848#0" expanded="false" />
-            <element signature="e#153889#153890#0" expanded="false" />
-            <element signature="e#153954#153955#0" expanded="false" />
-            <element signature="e#153983#153984#0" expanded="false" />
-            <element signature="e#154029#154030#0" expanded="false" />
-            <element signature="e#175529#175530#0" expanded="false" />
-            <element signature="e#175561#175562#0" expanded="false" />
-            <element signature="e#176666#176667#0" expanded="false" />
-            <element signature="e#176702#176703#0" expanded="false" />
-            <element signature="e#177342#177343#0" expanded="false" />
-            <element signature="e#177386#177387#0" expanded="false" />
-            <element signature="e#179415#179416#0" expanded="false" />
-            <element signature="e#179472#179473#0" expanded="false" />
-            <element signature="e#193420#193421#0" expanded="false" />
-            <element signature="e#193456#193457#0" expanded="false" />
-            <element signature="e#200408#200409#0" expanded="false" />
-            <element signature="e#200449#200450#0" expanded="false" />
-            <element signature="e#203240#203241#0" expanded="false" />
-            <element signature="e#203272#203273#0" expanded="false" />
-            <element signature="e#204142#204143#0" expanded="false" />
-            <element signature="e#204174#204175#0" expanded="false" />
-            <element signature="e#204468#204469#0" expanded="false" />
-            <element signature="e#204504#204505#0" expanded="false" />
-            <element signature="e#204792#204793#0" expanded="false" />
-            <element signature="e#204828#204829#0" expanded="false" />
-            <element signature="e#207282#207283#0" expanded="false" />
-            <element signature="e#207357#207358#0" expanded="false" />
-            <element signature="e#208669#208670#0" expanded="false" />
-            <element signature="e#208723#208724#0" expanded="false" />
-            <element signature="e#209629#209630#0" expanded="false" />
-            <element signature="e#209683#209684#0" expanded="false" />
-            <element signature="e#210023#210024#0" expanded="false" />
-            <element signature="e#210065#210066#0" expanded="false" />
-            <element signature="e#210462#210463#0" expanded="false" />
-            <element signature="e#210517#210518#0" expanded="false" />
-            <element signature="e#213756#213757#0" expanded="false" />
-            <element signature="e#213810#213811#0" expanded="false" />
-            <element signature="e#218894#218895#0" expanded="false" />
-            <element signature="e#218962#218963#0" expanded="false" />
-            <element signature="e#221102#221103#0" expanded="false" />
-            <element signature="e#221147#221148#0" expanded="false" />
-            <element signature="e#224842#224843#0" expanded="false" />
-            <element signature="e#224925#224926#0" expanded="false" />
-            <element signature="e#225086#225087#0" expanded="false" />
-            <element signature="e#225170#225171#0" expanded="false" />
-            <element signature="e#227032#227033#0" expanded="false" />
-            <element signature="e#227113#227114#0" expanded="false" />
-            <element signature="e#227381#227382#0" expanded="false" />
-            <element signature="e#227461#227462#0" expanded="false" />
-            <element signature="e#249848#249849#0" expanded="false" />
-            <element signature="e#249883#249884#0" expanded="false" />
-            <element signature="e#258819#258820#0" expanded="false" />
-            <element signature="e#258851#258852#0" expanded="false" />
-            <element signature="e#259406#259407#0" expanded="false" />
-            <element signature="e#259438#259439#0" expanded="false" />
-            <element signature="e#260008#260009#0" expanded="false" />
-            <element signature="e#260040#260041#0" expanded="false" />
-            <element signature="e#260551#260552#0" expanded="false" />
-            <element signature="e#260583#260584#0" expanded="false" />
-            <element signature="e#261130#261131#0" expanded="false" />
-            <element signature="e#261162#261163#0" expanded="false" />
-            <element signature="e#261724#261725#0" expanded="false" />
-            <element signature="e#261756#261757#0" expanded="false" />
-            <element signature="e#264208#264209#0" expanded="false" />
-            <element signature="e#264280#264281#0" expanded="false" />
-            <element signature="e#264420#264421#0" expanded="false" />
-            <element signature="e#264493#264494#0" expanded="false" />
-            <element signature="e#265215#265216#0" expanded="false" />
-            <element signature="e#265250#265251#0" expanded="false" />
-            <element signature="e#273978#273979#0" expanded="false" />
-            <element signature="e#274035#274036#0" expanded="false" />
-            <element signature="e#277375#277376#0" expanded="false" />
-            <element signature="e#277411#277412#0" expanded="false" />
-            <element signature="e#282249#282250#0" expanded="false" />
-            <element signature="e#282290#282291#0" expanded="false" />
-            <element signature="e#293612#293613#0" expanded="false" />
-            <element signature="e#293670#293671#0" expanded="false" />
-            <element signature="e#294388#294389#0" expanded="false" />
-            <element signature="e#294431#294432#0" expanded="false" />
-            <element signature="e#294681#294682#0" expanded="false" />
-            <element signature="e#294719#294720#0" expanded="false" />
-            <element signature="e#294842#294843#0" expanded="false" />
-            <element signature="e#294886#294887#0" expanded="false" />
-            <element signature="e#294915#294916#0" expanded="false" />
-            <element signature="e#294969#294970#0" expanded="false" />
-            <element signature="e#294995#294996#0" expanded="false" />
-            <element signature="e#295052#295053#0" expanded="false" />
-            <element signature="e#295094#295095#0" expanded="false" />
-            <element signature="e#295165#295166#0" expanded="false" />
-            <element signature="e#295210#295211#0" expanded="false" />
-            <element signature="e#295277#295278#0" expanded="false" />
-            <element signature="e#295314#295315#0" expanded="false" />
-            <element signature="e#295374#295375#0" expanded="false" />
-            <element signature="e#295405#295406#0" expanded="false" />
-            <element signature="e#295459#295460#0" expanded="false" />
-            <element signature="e#295512#295513#0" expanded="false" />
-            <element signature="e#295562#295563#0" expanded="false" />
-            <element signature="e#295593#295594#0" expanded="false" />
-            <element signature="e#295652#295653#0" expanded="false" />
-            <element signature="e#295685#295686#0" expanded="false" />
-            <element signature="e#295743#295744#0" expanded="false" />
-            <element signature="e#295774#295775#0" expanded="false" />
-            <element signature="e#295833#295834#0" expanded="false" />
-            <element signature="e#295862#295863#0" expanded="false" />
-            <element signature="e#295919#295920#0" expanded="false" />
-            <element signature="e#295950#295951#0" expanded="false" />
-            <element signature="e#296009#296010#0" expanded="false" />
-            <element signature="e#296044#296045#0" expanded="false" />
-            <element signature="e#296108#296109#0" expanded="false" />
-            <element signature="e#296154#296155#0" expanded="false" />
-            <element signature="e#296220#296221#0" expanded="false" />
-            <element signature="e#296256#296257#0" expanded="false" />
-            <element signature="e#296295#296296#0" expanded="false" />
-            <element signature="e#300441#300442#0" expanded="false" />
-            <element signature="e#300480#300481#0" expanded="false" />
-            <element signature="e#300534#300535#0" expanded="false" />
-            <element signature="e#300578#300579#0" expanded="false" />
-            <element signature="e#300636#300637#0" expanded="false" />
-            <element signature="e#300673#300674#0" expanded="false" />
-            <element signature="e#300735#300736#0" expanded="false" />
-            <element signature="e#300772#300773#0" expanded="false" />
-            <element signature="e#300824#300825#0" expanded="false" />
-            <element signature="e#300886#300887#0" expanded="false" />
-            <element signature="e#301179#301180#0" expanded="false" />
-            <element signature="e#301235#301236#0" expanded="false" />
-            <element signature="e#301526#301527#0" expanded="false" />
-            <element signature="e#301580#301581#0" expanded="false" />
-            <element signature="e#302020#302021#0" expanded="false" />
-            <element signature="e#302074#302075#0" expanded="false" />
-            <element signature="e#302494#302495#0" expanded="false" />
-            <element signature="e#302548#302549#0" expanded="false" />
-            <element signature="e#302783#302784#0" expanded="false" />
-            <element signature="e#302839#302840#0" expanded="false" />
-            <element signature="e#304225#304226#0" expanded="false" />
-            <element signature="e#304284#304285#0" expanded="false" />
-            <element signature="e#305672#305673#0" expanded="false" />
-            <element signature="e#305728#305729#0" expanded="false" />
-            <element signature="e#305881#305882#0" expanded="false" />
-            <element signature="e#305926#305927#0" expanded="false" />
-            <element signature="e#307200#307201#0" expanded="false" />
-            <element signature="e#307249#307250#0" expanded="false" />
-            <element signature="e#307374#307375#0" expanded="false" />
-            <element signature="e#307413#307414#0" expanded="false" />
-            <element signature="e#307677#307678#0" expanded="false" />
-            <element signature="e#307723#307724#0" expanded="false" />
-            <element signature="e#308787#308788#0" expanded="false" />
-            <element signature="e#308854#308855#0" expanded="false" />
-            <element signature="e#308975#308976#0" expanded="false" />
-            <element signature="e#309043#309044#0" expanded="false" />
-            <element signature="e#312831#312832#0" expanded="false" />
-            <element signature="e#312901#312902#0" expanded="false" />
-            <element signature="e#313185#313186#0" expanded="false" />
-            <element signature="e#313245#313246#0" expanded="false" />
-            <element signature="e#315554#315555#0" expanded="false" />
-            <element signature="e#315596#315597#0" expanded="false" />
-            <element signature="e#315743#315744#0" expanded="false" />
-            <element signature="e#315785#315786#0" expanded="false" />
-            <element signature="e#315938#315939#0" expanded="false" />
-            <element signature="e#315986#315987#0" expanded="false" />
-            <element signature="e#316176#316177#0" expanded="false" />
-            <element signature="e#316228#316229#0" expanded="false" />
-            <element signature="e#317513#317514#0" expanded="false" />
-            <element signature="e#317565#317566#0" expanded="false" />
-            <element signature="e#320535#320536#0" expanded="false" />
-            <element signature="e#320576#320577#0" expanded="false" />
-            <element signature="e#320813#320814#0" expanded="false" />
-            <element signature="e#320870#320871#0" expanded="false" />
-            <element signature="e#321077#321078#0" expanded="false" />
-            <element signature="e#321134#321135#0" expanded="false" />
-            <element signature="e#321210#321211#0" expanded="false" />
-            <element signature="e#321269#321270#0" expanded="false" />
-            <element signature="e#322169#322197#0" expanded="false" />
-            <element signature="e#322297#322325#0" expanded="false" />
-            <element signature="e#322417#322435#0" expanded="false" />
-            <element signature="e#323448#323449#0" expanded="false" />
-            <element signature="e#323491#323492#0" expanded="false" />
-            <element signature="e#323829#323830#0" expanded="false" />
-            <element signature="e#323884#323885#0" expanded="false" />
-            <element signature="e#324210#324211#0" expanded="false" />
-            <element signature="e#324261#324262#0" expanded="false" />
-            <element signature="e#326234#326235#0" expanded="false" />
-            <element signature="e#326280#326281#0" expanded="false" />
-            <element signature="e#326837#326838#0" expanded="false" />
-            <element signature="e#326885#326886#0" expanded="false" />
-            <element signature="e#328997#328998#0" expanded="false" />
-            <element signature="e#329043#329044#0" expanded="false" />
-            <element signature="e#334749#334779#0" expanded="false" />
-            <element signature="e#335211#335212#0" expanded="false" />
-            <element signature="e#335255#335256#0" expanded="false" />
-            <element signature="e#335466#335467#0" expanded="false" />
-            <element signature="e#335518#335519#0" expanded="false" />
-            <element signature="e#335713#335714#0" expanded="false" />
-            <element signature="e#335756#335757#0" expanded="false" />
-            <element signature="e#335962#335963#0" expanded="false" />
-            <element signature="e#336012#336013#0" expanded="false" />
-            <element signature="e#336216#336217#0" expanded="false" />
-            <element signature="e#336262#336263#0" expanded="false" />
-            <element signature="e#336483#336484#0" expanded="false" />
-            <element signature="e#336539#336540#0" expanded="false" />
-            <element signature="e#336743#336744#0" expanded="false" />
-            <element signature="e#336789#336790#0" expanded="false" />
-            <element signature="e#337010#337011#0" expanded="false" />
-            <element signature="e#337066#337067#0" expanded="false" />
-            <element signature="e#337316#337317#0" expanded="false" />
-            <element signature="e#337372#337373#0" expanded="false" />
-            <element signature="e#338981#338982#0" expanded="false" />
-            <element signature="e#339025#339026#0" expanded="false" />
-            <element signature="e#348287#348288#0" expanded="false" />
-            <element signature="e#348333#348334#0" expanded="false" />
-            <element signature="e#348564#348565#0" expanded="false" />
-            <element signature="e#348608#348609#0" expanded="false" />
-            <element signature="e#348838#348839#0" expanded="false" />
-            <element signature="e#348881#348882#0" expanded="false" />
+            <element signature="e#862#863#0" expanded="false" />
+            <element signature="e#915#916#0" expanded="false" />
+            <element signature="e#1001#1002#0" expanded="false" />
+            <element signature="e#1055#1056#0" expanded="false" />
+            <element signature="e#1290#1291#0" expanded="false" />
+            <element signature="e#1326#1327#0" expanded="false" />
+            <element signature="e#1367#1368#0" expanded="false" />
+            <element signature="e#1402#1403#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/libs/SlidingTabLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="127" column="0" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/support-v4/22.2.0/support-v4-22.2.0-sources.jar!/android/support/v4/app/FragmentActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="807" column="0" selection-start-line="807" selection-start-column="0" selection-end-line="807" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/app/Activity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5286" column="0" selection-start-line="5286" selection-start-column="0" selection-end-line="5286" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/app/ActivityThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="107.17846">
-          <caret line="2225" column="0" selection-start-line="2225" selection-start-column="0" selection-end-line="2225" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/app/Instrumentation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1107" column="0" selection-start-line="1107" selection-start-column="0" selection-end-line="1107" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="0" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
+          <caret line="43" column="33" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/appcompat-v7/22.2.0/appcompat-v7-22.2.0-sources.jar!/android/support/v7/internal/widget/ContentFrameLayout.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/ViewPagerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+          <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/widget/LinearLayout.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Tab2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="591" column="0" selection-start-line="591" selection-start-column="0" selection-end-line="591" selection-end-column="0" />
+          <caret line="92" column="12" selection-start-line="92" selection-start-column="12" selection-end-line="92" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/view/ViewGroup.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/data/Movie.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="5055" column="0" selection-start-line="5055" selection-start-column="0" selection-end-line="5055" selection-end-column="0" />
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding>
+            <element signature="e#486#487#0" expanded="false" />
+            <element signature="e#516#517#0" expanded="false" />
+            <element signature="e#562#563#0" expanded="false" />
+            <element signature="e#600#601#0" expanded="false" />
+            <element signature="e#637#638#0" expanded="false" />
+            <element signature="e#673#674#0" expanded="false" />
+            <element signature="e#728#729#0" expanded="false" />
+            <element signature="e#778#779#0" expanded="false" />
+            <element signature="e#807#808#0" expanded="false" />
+            <element signature="e#832#833#0" expanded="false" />
+            <element signature="e#868#869#0" expanded="false" />
+            <element signature="e#896#897#0" expanded="false" />
+            <element signature="e#939#940#0" expanded="false" />
+            <element signature="e#980#981#0" expanded="false" />
+            <element signature="e#1141#1142#0" expanded="false" />
+            <element signature="e#1172#1173#0" expanded="false" />
+            <element signature="e#1220#1221#0" expanded="false" />
+            <element signature="e#1260#1261#0" expanded="false" />
+            <element signature="e#1292#1293#0" expanded="false" />
+            <element signature="e#1320#1321#0" expanded="false" />
+            <element signature="e#1362#1363#0" expanded="false" />
+            <element signature="e#1396#1397#0" expanded="false" />
+            <element signature="e#1430#1431#0" expanded="false" />
+            <element signature="e#1460#1461#0" expanded="false" />
+            <element signature="e#1506#1507#0" expanded="false" />
+            <element signature="e#1544#1545#0" expanded="false" />
+            <element signature="e#1581#1582#0" expanded="false" />
+            <element signature="e#1614#1615#0" expanded="false" />
+            <element signature="e#1666#1667#0" expanded="false" />
+            <element signature="e#1710#1711#0" expanded="false" />
+            <element signature="e#1744#1745#0" expanded="false" />
+            <element signature="e#1774#1775#0" expanded="false" />
+            <element signature="e#1820#1821#0" expanded="false" />
+            <element signature="e#1858#1859#0" expanded="false" />
+            <element signature="e#1895#1896#0" expanded="false" />
+            <element signature="e#1928#1929#0" expanded="false" />
+            <element signature="e#1980#1981#0" expanded="false" />
+            <element signature="e#2024#2025#0" expanded="false" />
+            <element signature="e#2063#2064#0" expanded="false" />
+            <element signature="e#2098#2099#0" expanded="false" />
+            <element signature="e#2154#2155#0" expanded="false" />
+            <element signature="e#2202#2203#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/widget/FrameLayout.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/shape.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="310" column="0" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+          <caret line="0" column="10" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/com/android/internal/policy/impl/PhoneWindow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2550" column="0" selection-start-line="2550" selection-start-column="0" selection-end-line="2550" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/view/View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16422" column="0" selection-start-line="16422" selection-start-column="0" selection-end-line="16422" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/os/Handler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="100" column="0" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/os/Looper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="138" column="0" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/view/Choreographer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="593" column="0" selection-start-line="593" selection-start-column="0" selection-end-line="593" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/com/android/internal/os/ZygoteInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="917" column="0" selection-start-line="917" selection-start-column="0" selection-end-line="917" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/support/v7/widget/RecyclerView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3323077">
-          <caret line="1763" column="0" selection-start-line="1763" selection-start-column="0" selection-end-line="1763" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/view/ViewRootImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3323077">
-          <caret line="1231" column="0" selection-start-line="1231" selection-start-column="0" selection-end-line="1231" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/tab_1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/movie_layout.xml">
       <provider editor-type-id="android-designer">
         <state />
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/interfaces/AsyncResponse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk1/sources/android-22/android/os/AsyncTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="533" column="0" selection-start-line="533" selection-start-column="0" selection-end-line="533" selection-end-column="0" />
+        <state vertical-scroll-proportion="-9.379311">
+          <caret line="63" column="63" selection-start-line="49" selection-start-column="12" selection-end-line="63" selection-end-column="63" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/support-v4/22.2.0/support-v4-22.2.0-sources.jar!/android/support/v4/app/BackStackRecord.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="744" column="0" selection-start-line="744" selection-start-column="0" selection-end-line="744" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#58190#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#5956#5957#0" expanded="false" />
-            <element signature="e#5980#5981#0" expanded="false" />
-            <element signature="e#6743#6744#0" expanded="false" />
-            <element signature="e#6796#6797#0" expanded="false" />
-            <element signature="e#6850#6851#0" expanded="false" />
-            <element signature="e#6905#6906#0" expanded="false" />
-            <element signature="e#13859#13860#0" expanded="false" />
-            <element signature="e#13893#13894#0" expanded="false" />
-            <element signature="e#13919#13920#0" expanded="false" />
-            <element signature="e#13948#13949#0" expanded="false" />
-            <element signature="e#13990#13991#0" expanded="false" />
-            <element signature="e#14032#14033#0" expanded="false" />
-            <element signature="e#14079#14080#0" expanded="false" />
-            <element signature="e#14126#14127#0" expanded="false" />
-            <element signature="e#19657#19658#0" expanded="false" />
-            <element signature="e#19700#19701#0" expanded="false" />
-            <element signature="e#21658#21659#0" expanded="false" />
-            <element signature="e#21702#21703#0" expanded="false" />
-            <element signature="e#21746#21747#0" expanded="false" />
-            <element signature="e#21789#21790#0" expanded="false" />
-            <element signature="e#36200#36201#0" expanded="false" />
-            <element signature="e#36228#36229#0" expanded="false" />
-            <element signature="e#36262#36263#0" expanded="false" />
-            <element signature="e#36296#36297#0" expanded="false" />
-            <element signature="e#36335#36336#0" expanded="false" />
-            <element signature="e#36374#36375#0" expanded="false" />
-            <element signature="e#36406#36407#0" expanded="false" />
-            <element signature="e#36440#36441#0" expanded="false" />
-            <element signature="e#41575#41589#0" expanded="false" />
-            <element signature="e#44317#44323#0" expanded="false" />
-            <element signature="e#44884#44892#0" expanded="false" />
-            <element signature="e#44968#44974#0" expanded="false" />
-            <element signature="e#45141#45147#0" expanded="false" />
-            <element signature="e#46003#46218#0" expanded="false" />
-            <element signature="e#46217#46218#0" expanded="false" />
-            <element signature="e#46494#46500#0" expanded="false" />
-            <element signature="e#46562#46576#0" expanded="false" />
-            <element signature="e#48498#49583#0" expanded="false" />
-            <element signature="e#49582#49583#0" expanded="false" />
-            <element signature="e#50029#50037#0" expanded="false" />
-            <element signature="e#50109#50115#0" expanded="false" />
-            <element signature="e#52392#52406#0" expanded="false" />
-            <element signature="e#53304#53318#0" expanded="false" />
-            <element signature="e#54102#54389#0" expanded="false" />
-            <element signature="e#54388#54389#0" expanded="false" />
-            <element signature="e#57904#57920#0" expanded="false" />
-            <element signature="e#57990#57996#0" expanded="false" />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/boxofccell.xml">
+      <provider editor-type-id="android-designer">
+        <state />
       </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/support-v4/22.2.0/support-v4-22.2.0-sources.jar!/android/support/v4/app/FragmentManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="489" column="0" selection-start-line="489" selection-start-column="0" selection-end-line="489" selection-end-column="0" />
-          <folding>
-            <element signature="e#18848#18849#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/support-v4/22.2.0/support-v4-22.2.0-sources.jar!/android/support/v4/app/FragmentStatePagerAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="164" column="0" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#8142#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#2743#2764#0" expanded="false" />
-            <element signature="e#2826#2836#0" expanded="false" />
-            <element signature="e#2947#2948#0" expanded="false" />
-            <element signature="e#2984#2985#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/support-v4/22.2.0/support-v4-22.2.0-sources.jar!/android/support/v4/view/ViewPager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="1111" column="0" selection-start-line="1111" selection-start-column="0" selection-end-line="1111" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/AppData/Local/Android/sdk1/extras/android/m2repository/com/android/support/support-v4/22.2.0/support-v4-22.2.0-sources.jar!/android/support/v4/app/Fragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/boxofclayout.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1788" column="0" selection-start-line="1788" selection-start-column="0" selection-end-line="1788" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/Upcoming.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="127" column="71" selection-start-line="127" selection-start-column="71" selection-end-line="127" selection-end-column="71" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3281#3463#0" expanded="false" />
+            <element signature="e#3462#3463#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_cell.xml">
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/AdapterMovieSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="8" selection-start-line="92" selection-start-column="8" selection-end-line="94" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1579#1580#0" expanded="false" />
+            <element signature="e#1633#1634#0" expanded="false" />
+            <element signature="e#2801#2983#0" expanded="false" />
+            <element signature="e#2982#2983#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -2121,28 +2180,15 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/fragments/Tab1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-          <folding>
-            <element signature="e#4103#4476#0" expanded="true" />
-            <element signature="e#4475#4476#0" expanded="true" />
-            <element signature="e#4478#4725#0" expanded="true" />
-            <element signature="e#4724#4725#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/data/Movie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+          <caret line="136" column="24" selection-start-line="136" selection-start-column="24" selection-end-line="136" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/adapters/AdapterMovieSearch.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/movieapp/MovieInfo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.63496935">
-          <caret line="54" column="58" selection-start-line="54" selection-start-column="58" selection-end-line="54" selection-end-column="58" />
+        <state vertical-scroll-proportion="0.5939177">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/linearLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="center"
+    style="@style/background">
+
+    <ScrollView
+        android:background="@drawable/shape"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView1"
+        android:layout_width="wrap_content"
+        android:layout_alignParentRight="true">
+
+        <RelativeLayout
+            android:background="@drawable/unnamed"
+            android:id="@+id/relativeLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <TextView
+                android:paddingTop="15px"
+                android:paddingBottom="15px"
+                android:text=" "
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:textSize="30px"
+                android:layout_width="fill_parent"
+                android:textColor="#FFFFFF"
+                android:id="@+id/fieldTitle"
+                android:layout_alignParentLeft="true"></TextView>
+
+            <ImageView
+                android:layout_width="200px"
+                android:layout_below="@+id/fieldTitle"
+                android:layout_alignLeft="@+id/fieldTitle"
+                android:layout_alignRight="@+id/fieldTitle"
+                android:layout_height="300px"
+                android:layout_marginBottom="10px"
+                android:id="@+id/imageMovie"/>
+
+            <TextView
+                style="@style/movieLabel"
+                android:text="Rating"
+                android:id="@+id/labelRating"
+                android:layout_below="@+id/imageMovie"></TextView>
+
+            <RatingBar
+                android:id="@+id/rtbHighScore"
+                style="?android:attr/ratingBarStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="45dp"
+                android:max="5"
+                android:numStars="5"
+                android:rating="0.0"
+                android:stepSize="0.0"
+                android:clickable="false"
+                android:layout_toRightOf="@+id/labelRating"
+                android:layout_alignTop="@+id/labelRating"
+                android:layout_alignBottom="@+id/labelRating"/>
+
+            <TextView
+                style="@style/movieLabel"
+                android:text="Genres"
+                android:id="@+id/labelGenres"
+                android:layout_below="@+id/labelRating"></TextView>
+
+            <TextView
+                style="@style/movieInfo"
+                android:text="Genres list"
+                android:id="@+id/fieldGenres"
+                android:layout_toRightOf="@+id/labelGenres"
+                android:layout_alignTop="@+id/labelGenres"
+                android:layout_alignBottom="@+id/labelGenres"></TextView>
+
+            <TextView
+                style="@style/movieLabel"
+                android:text="IMDB"
+                android:id="@+id/labelImdb"
+                android:layout_below="@+id/labelGenres"></TextView>
+
+            <TextView
+                style="@style/movieInfo"
+                android:text="IMDB Link"
+                android:id="@+id/fieldImdb"
+                android:layout_toRightOf="@+id/labelImdb"
+                android:layout_alignTop="@+id/labelImdb"
+                android:layout_alignBottom="@+id/labelImdb"></TextView>
+
+            <TextView
+                style="@style/movieLabel"
+                android:text="Plot"
+                android:id="@+id/labelPlot"
+                android:layout_below="@+id/labelImdb"></TextView>
+
+            <TextView
+                style="@style/movieInfo"
+                android:text="Loading..."
+                android:id="@+id/fieldPlot"
+                android:singleLine="false"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@+id/labelPlot"
+                android:layout_alignTop="@+id/labelPlot"
+                />
+
+        </RelativeLayout>
+
+    </ScrollView>
+
+</LinearLayout>

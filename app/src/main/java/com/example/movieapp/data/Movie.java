@@ -6,8 +6,9 @@ import java.util.Date;
  * Created by Deepak Kumar on 7/5/2015.
  */
 public class Movie {
-    private long id;
+    private String id;
     private String title;
+    private String ratings;
     private Date releaseDateTheater;
     private int audienceScore;
     private String synopsis;
@@ -17,6 +18,14 @@ public class Movie {
     private String urlReviews;
     private String urlSimilar;
 
+    public String getRatings() {
+        return ratings;
+    }
+
+    public void setRatings(String ratings) {
+        this.ratings = ratings;
+    }
+
     public int getAudienceScore() {
         return audienceScore;
     }
@@ -25,11 +34,11 @@ public class Movie {
         this.audienceScore = audienceScore;
     }
 
-    public long getId() {
+    public String getId() {
         return id;
     }
 
-    public void setId(long id) {
+    public void setId(String id) {
         this.id = id;
     }
 
@@ -95,5 +104,13 @@ public class Movie {
 
     public void setUrlThumbnail(String urlThumbnail) {
         this.urlThumbnail = urlThumbnail;
+    }
+
+    public void clearCache(){
+        setTitle("");
+        setUrlThumbnail("");
+        setSynopsis("");
+        setId("");
+        setAudienceScore(0);
     }
 }

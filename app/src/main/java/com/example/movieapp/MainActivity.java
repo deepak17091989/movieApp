@@ -32,7 +32,6 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         sInstance = this;
 
         // Creating The Toolbar and setting it as the Toolbar for the activity
